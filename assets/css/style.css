@@ -151,6 +151,7 @@ h1 {
 .todos li {
   padding: 16px 32px;
   border-top: 1px solid #e5e5e5;
+  display: block;
   font-size: 24px;
   cursor: pointer;
 }
